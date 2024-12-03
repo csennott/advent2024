@@ -1,0 +1,16 @@
+# special files
+new_puzzle.sh
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore other Python artifacts
+*.egg-info/
+*.eggs/
+*.pyc
+
+# Ignore pytest cache
+.pytest_cache/
+.cache/
